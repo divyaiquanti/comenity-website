@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/comenity-website/static/js/main.d19c4e66.js",
+    "main.js": "/comenity-website/static/js/main.026616fc.js",
     "static/css/174.ea48aa0b.chunk.css": "/comenity-website/static/css/174.ea48aa0b.chunk.css",
     "static/js/174.57a2746e.chunk.js": "/comenity-website/static/js/174.57a2746e.chunk.js",
     "static/css/259.ea48aa0b.chunk.css": "/comenity-website/static/css/259.ea48aa0b.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/787.937d043f.chunk.js": "/comenity-website/static/js/787.937d043f.chunk.js",
     "static/js/19.fe40c967.chunk.js": "/comenity-website/static/js/19.fe40c967.chunk.js",
     "index.html": "/comenity-website/index.html",
-    "main.d19c4e66.js.map": "/comenity-website/static/js/main.d19c4e66.js.map",
+    "main.026616fc.js.map": "/comenity-website/static/js/main.026616fc.js.map",
     "174.ea48aa0b.chunk.css.map": "/comenity-website/static/css/174.ea48aa0b.chunk.css.map",
     "174.57a2746e.chunk.js.map": "/comenity-website/static/js/174.57a2746e.chunk.js.map",
     "259.ea48aa0b.chunk.css.map": "/comenity-website/static/css/259.ea48aa0b.chunk.css.map",
@@ -21,6 +21,6 @@
     "19.fe40c967.chunk.js.map": "/comenity-website/static/js/19.fe40c967.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d19c4e66.js"
+    "static/js/main.026616fc.js"
   ]
 }
